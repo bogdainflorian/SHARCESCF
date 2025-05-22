@@ -1,0 +1,8 @@
+basis all def2-TZVP
+charge 0
+auxbasis all def2-TZVP
+rpacor 40000
+functional b3-lyp
+tda
+grid m5
+ncore

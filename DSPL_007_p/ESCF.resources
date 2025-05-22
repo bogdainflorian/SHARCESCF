@@ -1,0 +1,7 @@
+turbodir $TURBODIR/
+scratchdir /home/fb445/Desktop/Sharc_water/scratch/DSPL_RESULTS/DSPL_007_p
+memory 1000
+ncpu 1
+dipolelevel 1
+wfoverlap $SHARC/wfoverlap.x
+wfthres 0.998000

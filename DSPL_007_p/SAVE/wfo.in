@@ -1,0 +1,8 @@
+a_mo=mos.DSPL_000_eq
+a_mo_read=2
+b_mo=mos.DSPL
+b_mo_read=2
+a_det=det.DSPL_000_eq.trip
+b_det=det.DSPL.trip
+mix_aoovl=AOovl
+ncore=1

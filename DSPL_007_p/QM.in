@@ -1,0 +1,14 @@
+3
+Displacement 7p
+O 0.000000 0.000000 -0.122733
+H 1.411481 0.000000 0.974068
+H -1.411481 0.000000 0.974068
+unit bohr
+states 4 0 2 
+overlap
+cleanup
+molden
+savedir ./SAVE/
+
+H
+DM

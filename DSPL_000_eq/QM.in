@@ -1,0 +1,13 @@
+3
+Displacement None
+O 0.000000 0.000000 -0.121790
+H 1.417134 0.000000 0.966579
+H -1.417134 0.000000 0.966579
+unit bohr
+states 4 0 2 
+init
+molden
+savedir ./SAVE/
+
+H
+DM
